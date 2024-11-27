@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kGQR5sFX15k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ns703\\Desktop\\Assignemnt\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ns703\\.nuget\\packages\\selenium.webdriver\\4.27.0\\selenium.webdriver.4.27.0.nupkg.sha512"
+  ],
+  "logs": []
+}
